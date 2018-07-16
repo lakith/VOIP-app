@@ -1,0 +1,16 @@
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe.config
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.pdb
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.dll
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.dll
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\WinSound.dll
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.pdb
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.pdb
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\bin\Debug\WinSound.pdb
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csprojResolveAssemblyReference.cache
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.FormMain.resources
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.Properties.Resources.resources
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.GenerateResource.Cache
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.CoreCompileInputs.cache
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.exe
+C:\programming-life2\chat\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.pdb
